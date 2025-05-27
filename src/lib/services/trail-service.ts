@@ -5,7 +5,8 @@ import { currentTrails, currentLocations, loggedInUser } from "$lib/runes.svelte
 import { computeByLocation, computeByType } from "./trail-utils";
 
 export const trailService = {
-  baseUrl: "http://localhost:4000",
+  // baseUrl: "http://localhost:4000",
+  baseUrl: "https://iced-alkaline-feeling.glitch.me/"
 
   async signup(user: User): Promise<boolean> {
     try {
