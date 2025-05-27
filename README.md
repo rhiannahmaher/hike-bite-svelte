@@ -119,7 +119,7 @@ This will start the Node.js server, and you should be able to access the applica
 
 ### Deployment
 
-Application is available to view via Glitch [here](https://hike-bite-svelte.netlify.app/)
+Application is available to view via Netlify [here](https://hike-bite-svelte.netlify.app/)
 
 <!-- Usage -->
 ## Usage
